@@ -13,6 +13,4 @@
 > ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-## Languagues
-
-(https://skillicons.dev/icons?i=java,kotlin,c,php,html,css,net,redis,mongo,mysql,maven,idea,ps)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=java,kotlin,c,php,html,css,net,redis,mongo,mysql,maven,idea,ps)](https://skillicons.dev)
